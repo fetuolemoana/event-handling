@@ -9,7 +9,6 @@ function start () {
   one()
   two() 
   three()
-  
     
   // Your turn! Create a new function called `two`, then call it from here.
 }
