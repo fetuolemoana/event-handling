@@ -56,3 +56,9 @@ function makeWhite (evt) {
 function makeGreen (evt) {
   evt.target.style.backgroundColor = 'green'
 }
+
+// Add function to change the background colour of the event's target to orange 
+
+function makeOrange (evt) {
+  evt.target.style.backgroundColor = 'orange'
+}
